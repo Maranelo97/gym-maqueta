@@ -6,7 +6,7 @@ function About() {
             <img src={aboutImage} alt="about" />
         </div>
         <div className='about-text'>
-            <h1>Conoce mas sobre mi</h1>
+            <h1>CONOCE MAS SOBRE MI</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum soluta mollitia harum, totam suscipit fuga fugit eum nesciunt maiores! Quo dolore animi sit veniam, enim ab placeat nam rerum dignissimos.</p>
         </div>
     </div>

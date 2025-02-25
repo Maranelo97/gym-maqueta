@@ -5,7 +5,7 @@ function Offer() {
     <div id="presentaion">
       <div className="pr-heading">
         <h1>
-          UNA GRAN<span>DECISIÓN</span>PARA ESTE VERANO
+          UNA GRAN<span>DECISIÓN</span>
         </h1>
         <div className="pr-btns">
           <Link to="contact" className="pr-btn" smooth={true} duration={1200}>
